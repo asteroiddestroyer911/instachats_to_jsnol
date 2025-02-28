@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Input and output file paths
-input_file="/path/to/input.json"
-output_file="/path/to/output.jsonl"
+input_file="/path/to/your/input.json"
+output_file="/path/to/your/output.jsonl"
 
 # Clear the output file if it exists
 > "$output_file"
